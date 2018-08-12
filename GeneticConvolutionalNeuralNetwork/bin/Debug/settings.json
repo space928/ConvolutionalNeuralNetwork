@@ -1,0 +1,1 @@
+{"highPrecision":false,"useRandomDataset":false,"nodeLayers":7,"nodesPL":7,"fitnessAverageIters":50,"mutationRate":0.03,"childrenPerGen":100,"overrallFitIters":2000,"midLayerRes":128,"outLayerRes":1, "parentsPerGeneration":10}
